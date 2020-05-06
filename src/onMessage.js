@@ -32,7 +32,7 @@ module.exports = bot => {
     )
     console.log(`to: ${msg.to()}`)
     console.log(`text: ${msg.text()}`)
-    console.log(`isRoom: ${msg.room()}`)
+    console.log(`isRoom: ${msg.room()}, roomId:${msg.room().id}, roomName:${msg.room().roomName}`)
     console.log("=============================")
 
     // 判断此消息类型是否为文本
