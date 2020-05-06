@@ -1,7 +1,11 @@
 # wechaty-Robot
 
-基于 wechaty-puppet-padplus 的微信机器人助手
+## 特别鸣谢
+[![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-green.svg)](https://github.com/chatie/wechaty)
+[![Wechaty开源激励计划](https://img.shields.io/badge/Wechaty-开源激励计划-green.svg)](https://github.com/juzibot/Welcome/wiki/Everything-about-Wechaty)
 
+
+基于 wechaty-puppet-padplus 的微信机器人助手
 
 
 是基于该作者的这篇文章[Wechaty|NodeJS基于iPad协议手撸一个简单的微信机器人助手-掘金](https://juejin.im/post/5e5b2aeff265da5710438a1e)
